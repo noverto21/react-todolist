@@ -28,7 +28,7 @@ export default function App() {
             <span className="todo-text">Learning React</span>
           </div>
           <div className="todo">
-            <span className="todo-text">Learning React</span>
+            <span className="todo-text">Learning Reacts</span>
           </div>
           <div className="todo">
             <span className="todo-text">Learning React</span>
